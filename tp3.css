@@ -1,0 +1,40 @@
+H2{
+    text-align: center;
+    color: blue;
+}
+form{
+    background-color:#FAFAFA;
+    padding: 30px;
+    width: 600px;
+    display: block;
+    margin: auto;
+}
+label{
+    /*marge d'en haut*/
+    margin-top:10px;
+    display: block;
+}
+input, textarea,select, option{
+    background-color: #fff3ff;}
+input, textarea,select{
+    padding: 3px;
+    border: 1px solid;
+    width: 200PX;
+    border-radius: 5px; 
+}
+input:valid{
+    background-color: #fee;
+    border-color: red ;
+    border-width: 3px;}
+    input:invalid{
+        background-color: cornsilk;
+        width:#5a5;}
+.required{ background-color: rgb(161, 163, 157);}
+form{
+    background-color: #5a5;}
+.h2{st
+    
+    
+    
+
+
